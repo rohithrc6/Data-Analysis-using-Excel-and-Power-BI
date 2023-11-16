@@ -1,1 +1,2 @@
-# Data-Analysis-using-Excel-and-Power-BI
+# Data Analysis using Excel and Power Query
+
