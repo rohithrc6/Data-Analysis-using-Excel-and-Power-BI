@@ -6,5 +6,5 @@ values, and combining the datasets.
 finder.
 - Employed Pivot tables and charts to perform data summarization and reporting.
 - Analysis and visualization of specific features using histograms and box plots.
-   Created a dashboard that compares and visualizes the different important features in the dataset, which
+- Created a dashboard that compares and visualizes the different important features in the dataset, which
 can be utilized to derive valuable insights.
