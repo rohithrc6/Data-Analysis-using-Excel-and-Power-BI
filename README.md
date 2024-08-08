@@ -11,7 +11,6 @@ finder.
 can be utilized to derive valuable insights.
 
 ## Insights ✅ :
-Here are the summarized insights:
 
 ### Department Performance and Salary Insights:
 - **Website Department**:
